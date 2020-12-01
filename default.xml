@@ -42,7 +42,7 @@
 
     <project path="bionic" name="ubports/android_bionic" groups="pdk" remote="ubp" revision="refs/heads/ubp-5.1.1" />
 
-    <project path="bootable/recovery" name="ubports/android_bootable_recovery" groups="pdk" remote="ubp" /> 
+    <project path="bootable/recovery" name="ubports/android_bootable_recovery" groups="pdk" remote="ubp" revision="halium-5.1" /> 
 
     <project path="development" name="ubports/android_development" remote="ubp" />
 
