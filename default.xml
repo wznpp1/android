@@ -84,7 +84,9 @@
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="aosp" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="aosp" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
+-->
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device,marlin,pdk" remote="aosp" />
+<!--
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
 -->
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
@@ -453,8 +455,8 @@
 -->
   <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" remote="aosp" />
   <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" remote="aosp" />
-<!--
   <project path="external/strace" name="platform/external/strace" groups="pdk" remote="aosp" />
+<!--
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" remote="aosp" />
   <project path="external/subsampling-scale-image-view" name="platform/external/subsampling-scale-image-view" clone-depth="1" remote="aosp" />
   <project path="external/swiftshader" name="platform/external/swiftshader" groups="pdk" remote="aosp" />
@@ -471,9 +473,7 @@
 -->
   <project path="external/tinyalsa" name="platform/external/tinyalsa" groups="pdk" remote="aosp" />
   <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" />
-<!--
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
--->
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" remote="aosp" />
 <!--
   <project path="external/toolchain-utils" name="platform/external/toolchain-utils" remote="aosp" />
