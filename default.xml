@@ -24,7 +24,7 @@
   <!-- Hybris repos -->
   <project path="hybris-patches" name="Halium/hybris-patches" revision="halium-9.0" />
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
-  <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
+  <project path="external/droidmedia" name="sailfishos/droidmedia" revision="4e80b83c04982f09659c7f925f142127727a9b71" />
   <project path="external/audioflingerglue" name="mer-hybris/audioflingerglue" revision="master" />
   <project path="external/busybox" name="mer-hybris/android_external_busybox_prebuilt" revision="master" />
   <project path="external/gpg" name="ubports/android_external_gpg" revision="halium-9.0"  />
